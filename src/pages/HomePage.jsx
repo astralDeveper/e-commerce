@@ -71,6 +71,7 @@ const HomePage = () => {
             </div>
           </div>
 
+
           <div className="col-lg-6">
             <div className="d-flex">
               <img
